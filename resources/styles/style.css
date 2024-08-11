@@ -150,7 +150,7 @@ ul{
 }
 /*---------------------------------------------Hero-------------------------------- */
 #hero{
-  background-image: url("./resources/assets/img/hero4.png");
+  background-image: url("/resources/assets/img/hero4.png");
   height: 85vh;
   width: 100%;
   background-size: cover;
@@ -448,7 +448,7 @@ ul{
 }
 /* ------------------------------------holiday------------------------- */
 .holiday{
-  background-image: url('./resources/assets/img/banner/parallax_img.jpg');
+  background-image: url('/resources/assets/img/banner/parallax_img.jpg');
   background-position: 50% 48.3948%;
   background-size: cover;
   width: 100%;
